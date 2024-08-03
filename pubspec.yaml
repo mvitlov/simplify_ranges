@@ -1,0 +1,12 @@
+name: simplify_ranges
+description: Merge and normalize adjacent or overlapping integer ranges.
+version: 1.0.0
+repository: https://github.com/mvitlov/simplify_ranges
+issue_tracker: https://github.com/mvitlov/simplify_ranges/issues?q=is%3Aissue+is%3Aopen+
+
+environment:
+  sdk: ^3.2.6
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
